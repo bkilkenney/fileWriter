@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\fileWriter\fileWriter\bin\Debug\fileWriter.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\fileWriter\fileWriter\bin\Debug\fileWriter.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\fileWriter\fileWriter\bin\Debug\fileWriter.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\fileWriter\fileWriter\obj\Debug\fileWriter.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\fileWriter\fileWriter\obj\Debug\fileWriter.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\fileWriter\fileWriter\obj\Debug\fileWriter.pdb
